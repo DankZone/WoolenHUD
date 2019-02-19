@@ -13,5 +13,5 @@ WoolenHUD is a simplistic HUD for Team Fortress 2 that is largely based on the H
 This HUD will have some modifications to it by the team's personal taste.</br>
 This HUD is known to support these screen ratios: `16:9` `16:10`</br>
 
-Please report any issues in the issues tab on this repository or [click here](https://github.com/DankZone/WoolenHUD/issues)
+Please report any issues in the issues tab on this repository or [click here](https://github.com/DankZone/WoolenHUD/issues)</br>
 Help is greatly appreciated. If you want to help in the maintanence of WoolenHUD, sumbit a pull request [here](https://github.com/DankZone/WoolenHUD/pulls)
