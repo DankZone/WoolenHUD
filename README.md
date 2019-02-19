@@ -1,7 +1,7 @@
 # WoolenHUD
 Heads-up-display for Team Fortress 2 based on aWoolenSleevelet's TF2 HUD
 
-**As of February 2019 this is an ongoing project that will be recieving updates for the game "Team Fortress 2" by Valve Corporation.**
+**As of February 2019 this is an ongoing project that will be recieving updates for the game "Team Fortress 2" by Valve Corporation.**</br>
 **This project will no longer be recieving updates as of:**
 
 > To be determined
