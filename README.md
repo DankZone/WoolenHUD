@@ -41,4 +41,4 @@ tf
 Help/Support
 --------
 * If you can't see player health as Spy or the Medic, disable floating TargetID health by inputting `tf_hud_target_id_disable_floating_health 1` into the console or disabling the option in Advanced Options.
-* If you've found a bug or have a suggestion, [open a ticket on GitHub](https://github.com/raysfire/rayshud/issues/new).
+* If you've found a bug or have a suggestion, [open a ticket on GitHub](https://github.com/DankZone/WoolenHUD/issues/new).
